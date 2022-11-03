@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Samsung/Documents/E208/Projeto/VHDL/Teste_isim_beh.exe" -prj "C:/Users/Samsung/Documents/E208/Projeto/VHDL/Teste_beh.prj" "work.Teste" 
