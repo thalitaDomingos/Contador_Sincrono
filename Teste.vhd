@@ -1,6 +1,4 @@
--- Davi Restani de Faria 
 -- Thalita Fortes Domingos 
--- Thiago da Rocha Miguel 
 
 LIBRARY ieee;
 USE ieee.std_logic_1164.ALL;
