@@ -1,6 +1,4 @@
--- Davi Restani de Faria 
 -- Thalita Fortes Domingos 
--- Thiago da Rocha Miguel 
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
@@ -21,7 +19,7 @@ begin
    if reset = '1' then
 	   output <= 0; 
 		
-	elsif rising_edge (clk) then -- transição de subida	
+	elsif rising_edge (clk) then -- transiÃ§Ã£o de subida	
 	   if output = 0 then
 		   output <= 5;
 		
@@ -48,7 +46,7 @@ begin
 			
 		end if;
 		
-	elsif falling_edge (clk) then -- transição de descida
+	elsif falling_edge (clk) then -- transiÃ§Ã£o de descida
 	   output <= output;
 	
 	end if;
